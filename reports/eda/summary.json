@@ -1,0 +1,48 @@
+{
+  "n_dishes": 3262,
+  "n_ingredient_dictionary": 555,
+  "official_splits": {
+    "train": 2755,
+    "test": 507
+  },
+  "training_splits": {
+    "train": 2204,
+    "val": 551,
+    "test": 507
+  },
+  "missing_source_values": {
+    "total_calories": 0,
+    "total_mass": 0,
+    "ingredients": 0
+  },
+  "duplicate_images": 0,
+  "zero_calorie_dishes": 2,
+  "calories": {
+    "count": 3262.0,
+    "mean": 255.0127380726548,
+    "std": 219.63756986942641,
+    "min": 0.0,
+    "25%": 80.11499574999999,
+    "50%": 209.110062,
+    "75%": 375.122963,
+    "max": 3943.325195
+  },
+  "ingredient_count": {
+    "count": 3262.0,
+    "mean": 7.313304721030043,
+    "std": 6.943275722591068,
+    "min": 1.0,
+    "25%": 1.0,
+    "50%": 4.0,
+    "75%": 12.0,
+    "max": 34.0
+  },
+  "train_mass_calorie_pearson": 0.7770828715101926,
+  "image_sizes": [
+    {
+      "width": 640,
+      "height": 480,
+      "n": 3262
+    }
+  ]
+}

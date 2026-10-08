@@ -1,0 +1,16 @@
+{
+  "n": 507,
+  "mae": 49.7429775907208,
+  "rmse": 77.77339367989518,
+  "r2": 0.8654578946219954,
+  "median_ae": 29.9029541015625,
+  "p90_ae": 118.60701904296877,
+  "bias": -10.783501406628234,
+  "negative_predictions": 4,
+  "target_met": true,
+  "use_mass": false,
+  "best_epoch": 24,
+  "checkpoint_sha256": "aadc5556ae467d5a337b42b180960ceeeaf6eb0b33faafdca75ff30e8f216d82",
+  "checkpoint_selection": "minimum validation MAE",
+  "subset": "official test"
+}

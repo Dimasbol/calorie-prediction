@@ -1,0 +1,2 @@
+config,run_dir,image_model,val_mae,val_rmse
+configs/main.yaml,artifacts/main,resnet18.a1_in1k,42.66927592464454,67.95753860408357

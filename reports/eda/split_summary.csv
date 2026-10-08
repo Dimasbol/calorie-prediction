@@ -1,0 +1,3 @@
+split,n,calories_mean,calories_median,mass_median
+test,507,255.46705058777118,226.014999,161.0
+train,2755,254.92913137749548,208.115997,179.0

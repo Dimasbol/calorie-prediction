@@ -1,0 +1,4 @@
+# Additional experiment ONLY when mass is available during inference.
+# This result must not be substituted for the two-input task result.
+run_dir: artifacts/with_mass
+use_mass: true

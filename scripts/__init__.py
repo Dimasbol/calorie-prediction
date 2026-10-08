@@ -1,0 +1,1 @@
+"""Multimodal calorie regression project."""

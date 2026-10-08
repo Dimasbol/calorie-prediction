@@ -1,0 +1,11 @@
+dish_id,total_calories,total_mass,split,ingredients_text
+dish_1560974769,3943.325195,3051.0,train,"black beans, cheese, cherry tomatoes, chili, corn, garlic, lime, onions, salt, sour cream, spinach (raw), tomatoes, tortilla chips, white rice"
+dish_1565033265,1324.084961,625.0,train,"broccoli, chicken, mixed greens, olive oil, olives, vinaigrette"
+dish_1562603895,1268.157349,517.0,train,"blackberries, granola, hash browns, mixed greens, raspberries, sausage, scrambled eggs, vinaigrette"
+dish_1564170010,1264.54834,831.0,train,"arugula, broccoli, brown rice, cheese, chicken thighs, chili, cilantro, cucumbers, garlic, kale, lemon juice, olive oil, onions, parsley, pepper, salmon, salt, squash, tatsoi, thyme, tomatoes, tortilla, zucchini"
+dish_1563476577,1238.033691,857.0,train,"apple, beef, broccoli, brown rice, brownies, cheese pizza, chili, cilantro, cranberries, cream, garlic, ginger, jalapenos, lemon juice, lime, mushroom, mustard, olive oil, onions, pasta, salmon, salt, shallots, sour cream, spinach (raw), squash, thyme, vinegar, wine, zucchini"
+dish_1563305083,1234.856323,901.0,train,"beef, blue cheese, broccoli, carrot, chicken, chili, eggplant, garlic, green onions, kale, lemon juice, lettuce, mixed greens, mustard, olive oil, onions, orange juice, parsley, pepper, salt, shallots, soy sauce, spinach (raw), thyme, tofu, vinegar, walnuts, wheat berry, white rice"
+dish_1568401090,1158.98999,614.0,train,"avocado, broccoli, chicken, mixed greens, olive oil"
+dish_1558379876,1148.250977,374.0,train,"almonds, deprecated, sausage"
+dish_1568318480,1119.280029,587.0,train,"broccoli, chicken, mixed greens, olive oil, steak"
+dish_1563476551,1116.391113,750.0,train,"beef, broccoli, brown rice, brownies, cheese pizza, chili, cilantro, cream, garlic, ginger, jalapenos, lemon juice, lime, mushroom, olive oil, onions, pasta, salmon, salt, shallots, sour cream, spinach (raw), squash, thyme, wine, zucchini"

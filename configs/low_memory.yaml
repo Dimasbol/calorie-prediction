@@ -1,0 +1,8 @@
+# Same task; a conservative fallback if batch_size=4 causes OOM.
+run_dir: artifacts/low_memory
+batch_size: 2
+accumulation_steps: 8
+image_size: 224
+image_trainable: last_stage
+text_trainable_layers: 0
+# Unspecified fields use the documented defaults in scripts/config.py.

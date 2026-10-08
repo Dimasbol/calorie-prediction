@@ -1,0 +1,6 @@
+{
+  "train_texts": 2204,
+  "max_tokens": 103,
+  "p95_tokens": 62.0,
+  "truncated_at_config_max_length": 0
+}

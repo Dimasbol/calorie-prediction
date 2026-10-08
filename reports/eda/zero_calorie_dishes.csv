@@ -1,0 +1,3 @@
+dish_id,ingredients_text,total_mass,split
+dish_1557861216,plate only,1.0,test
+dish_1556575700,plate only,86.0,train

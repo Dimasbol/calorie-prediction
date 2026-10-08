@@ -1,0 +1,9 @@
+# Optional validation experiment; more computation, no guaranteed gain.
+run_dir: artifacts/resnet50
+image_model: resnet50.a1_in1k
+image_size: 256
+batch_size: 2
+accumulation_steps: 8
+image_trainable: last_stage
+image_lr: 0.00005
+text_lr: 0.00001
